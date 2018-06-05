@@ -1,0 +1,13 @@
+.mainTitle {
+	text-align: center;
+	font-weight: bold;
+	font-family: Oswald, sans-serif;
+}
+
+p {
+	font-family: Lato, serif;
+}
+
+li {
+	font-weight: bold;
+}

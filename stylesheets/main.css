@@ -8,6 +8,7 @@ p {
 	font-family: Lato, serif;
 }
 
-li {
-	font-weight: bold;
+ul {
+	list-style-type: disc;
+	font-family: Impact;
 }
